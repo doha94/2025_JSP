@@ -38,6 +38,7 @@
 	국어: <%=kor %><br>
 	영어: <%=eng %><br>
 	수학: <%=math %><br>
+	총점: <%=average %><br>
 	평균: <%=Avg %>
 </body>
 </html>
